@@ -1,8 +1,8 @@
-angular.module( 'ngBoilerplate', [
+angular.module( 'ngRecipe', [
   'templates-app',
   'templates-common',
-  'ngBoilerplate.home',
-  'ngBoilerplate.about',
+  'ngRecipe.home',
+  'ngRecipe.about',
   'ui.router'
 ])
 
